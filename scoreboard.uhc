@@ -1,0 +1,50 @@
+Lobby:
+  show:
+    scoreboard: true
+    kills: true
+    deaths: true
+    coins: true
+    points: true
+    team: true
+    kit: true
+    scenario: true
+    bar: true
+  message:
+    identifier ([i]): '&7>'
+    kills: ' &cKills [i] [kills]'
+    deaths: ' &cDeaths [i] [deaths]'
+    coins: ' &6Coins [i] [coins]'
+    points: ' &bPoints [i] [points]'
+    kit: ' &aKit [i] [kit]'
+    scenario: ' &4Scenario [i] [scenario]'
+    team: ' &bTeam [i] [team]'
+    bar: '&7=------------='
+  title: '&7>-= &aLobby &7=-<'
+Ingame:
+  show:
+    scoreboard: true
+    alive: true
+    specs: true
+    kit: true
+    scenario: true
+    team: true
+    center: true
+    border: true
+    time infos: true
+    bar: true
+  title: '&7> &cIngame &7<'
+  message:
+    alive: ' &aAlive &7> [alive]'
+    specs: ' &cSpecs &7> [specs]'
+    kit: ' &6Kit &7> [kit]'
+    scenario: ' &4Scenario [i] [scenario]'
+    team: ' &bTeam &7> [team]'
+    center: ' &dCenter &7> [center]'
+    border: ' &4Border &7> [border]'
+    time infos:
+      until deathmatch: ' &eDeathmatch &7> [time]'
+      until damage: ' &1Damage &7> [time]'
+      until pvp: ' &3PvP &7> [time]'
+      deathmatch: ' &eDeathmatch &7> now'
+    end: ' &3 &7> Restart'
+    bar: '&7=------------='

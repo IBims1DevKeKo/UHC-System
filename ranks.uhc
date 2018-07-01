@@ -1,0 +1,36 @@
+Noob:
+  min:
+    kills: 0
+    wins: 0
+    points: 0
+  prefix: '&7{&9NOOB&7} '
+PRO-NOOB:
+  min:
+    kills: 5
+    wins: 0
+    points: 0
+  prefix: '&7{&cPRO&7-&cNOOB&7} '
+Master:
+  min:
+    kills: 25
+    wins: 1
+    points: 0
+  prefix: '&7[&bMaster&7] '
+Hero:
+  min:
+    kills: 50
+    wins: 5
+    points: 0
+  prefix: '&7[&6&lHERO&7] '
+YouTuber:
+  min:
+    kills: 100
+    wins: 18
+    points: 2
+  prefix: '&7[&5YouTuber&7] '
+Legende:
+  min:
+    kills: 150
+    wins: 50
+    points: 1500
+  prefix: '&7[&d&lLegende&7] '

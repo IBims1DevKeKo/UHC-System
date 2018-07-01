@@ -1,0 +1,12 @@
+Lobby:
+  lenght: 120
+Period of peace:
+  length: 600
+WarmUp:
+  length: 600
+Deathmatch warmup:
+  length: 3600
+Deathmatch:
+  lenght: 30
+End:
+  length: 30

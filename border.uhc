@@ -1,0 +1,5 @@
+damage (hearts): 2
+delay (min): 10
+moving distance: 500
+size: 3000
+shrinks: true

@@ -1,0 +1,7 @@
+Name: '&cBestaetigen'
+Accept:
+  Material: stained glass pane:5
+  name: '&aJa?'
+Denied:
+  Material: STAINED_GLASS_PANE:14
+  name: '&cNein!'

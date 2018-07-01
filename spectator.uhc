@@ -1,0 +1,6 @@
+GUI:
+  Name: '&aTeleport'
+Spectator:
+  Item: magma cream
+  Item Name: '&cTeleporter'
+  Item Slot: 4

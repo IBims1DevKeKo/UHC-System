@@ -1,0 +1,21 @@
+Teams enabled: true
+GUI:
+  Name: '&bTeams'
+  Content Material: WOOL
+Team:
+  Item: BED
+  Item Name: '&bTeams'
+  Item Slot: 2
+  Chat: '@'
+Teams:
+  Preview:
+    name: Preview
+    prefix: '&7'
+    data: 1
+    max Players: 2
+    slot: 0
+    colored Name: true
+    color:
+      red: 255
+      green: 255
+      blue: 0

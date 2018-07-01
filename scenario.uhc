@@ -1,0 +1,431 @@
+Scenarios enabled: false
+Scenarios Item: Paper
+Scenarios Item Name: '&cScenario&7: &c-'
+Scenarios Item Slot: 1
+Scenario voting: true
+GUI: '&7Vote for &4Scenarios'
+Scenarios:
+  none:
+    enabled: true
+    name: none
+    icon: packed ice:0
+  half ores:
+    enabled: true
+    name: half ores
+    icon: birch wood stairs:0
+  three time arrows:
+    enabled: true
+    name: three time arrows
+    icon: gravel:0
+  monster inc:
+    enabled: true
+    name: monster inc
+    icon: birch fence:0
+  apple famine:
+    enabled: true
+    name: apple famine
+    icon: iron hoe:0
+  armor v health:
+    enabled: true
+    name: armor v health
+    icon: acacia fence:0
+  assault and battery:
+    enabled: true
+    name: assault and battery
+    icon: mushroom soup:0
+  backpacks:
+    enabled: true
+    name: backpacks
+    icon: quartz stairs:0
+  bald chicken:
+    enabled: true
+    name: bald chicken
+    icon: raw beef:0
+  barebones:
+    enabled: true
+    name: barebones
+    icon: quartz ore:0
+  bench blitz:
+    enabled: true
+    name: bench blitz
+    icon: iron ingot:0
+  best pve:
+    enabled: true
+    name: best pve
+    icon: quartz:0
+  beta zombie:
+    enabled: true
+    name: beta zombie
+    icon: firework:0
+  bloody lapis:
+    enabled: true
+    name: bloody lapis
+    icon: wood sword:0
+  biome paranoia:
+    enabled: true
+    name: biome paranoia
+    icon: tripwire hook:0
+  birds:
+    enabled: true
+    name: birds
+    icon: redstone torch on:0
+  blitz:
+    enabled: true
+    name: blitz
+    icon: clay ball:0
+  blocked:
+    enabled: true
+    name: blocked
+    icon: cocoa:0
+  block rush:
+    enabled: true
+    name: block rush
+    icon: record 11:0
+  bloody diamonds:
+    enabled: true
+    name: bloody diamonds
+    icon: monster eggs:0
+  hashtagbow:
+    enabled: true
+    name: hashtagbow
+    icon: sugar:0
+  bombers:
+    enabled: true
+    name: bombers
+    icon: diamond ore:0
+  bowfighters:
+    enabled: true
+    name: bowfighters
+    icon: feather:0
+  cateyes:
+    enabled: true
+    name: cateyes
+    icon: long grass:0
+  captains:
+    enabled: true
+    name: captains
+    icon: yellow flower:0
+  certain circumstances:
+    enabled: true
+    name: certain circumstances
+    icon: ink sack:0
+  chicken:
+    enabled: true
+    name: chicken
+    icon: record 6:0
+  chunk apocalypse:
+    enabled: true
+    name: chunk apocalypse
+    icon: fire:0
+  civilisation:
+    enabled: true
+    name: civilisation
+    icon: acacia fence gate:0
+  cityworld:
+    enabled: true
+    name: cityworld
+    icon: emerald block:0
+  compensation:
+    enabled: true
+    name: compensation
+    icon: nether warts:0
+  cut clean:
+    enabled: true
+    name: cut clean
+    icon: dirt:0
+  craftable teleportation:
+    enabled: true
+    name: craftable teleportation
+    icon: gold helmet:0
+  damage cycle:
+    enabled: true
+    name: damage cycle
+    icon: paper:0
+  damage dodgers:
+    enabled: true
+    name: damage dodgers
+    icon: melon block:0
+  diamondless:
+    enabled: true
+    name: diamondless
+    icon: stone sword:0
+  dimensional inversion:
+    enabled: true
+    name: dimensional inversion
+    icon: rabbit hide:0
+  double or nothing:
+    enabled: true
+    name: double or nothing
+    icon: beacon:0
+  dungeon maze:
+    enabled: true
+    name: dungeon maze
+    icon: green record:0
+  eight legged freaks:
+    enabled: true
+    name: eight legged freaks
+    icon: wood door:0
+  ender dance:
+    enabled: true
+    name: ender dance
+    icon: stone:0
+  enderdragon rush:
+    enabled: true
+    name: enderdragon rush
+    icon: carrot item:0
+  entropy:
+    enabled: true
+    name: entropy
+    icon: leash:0
+  erratic pvp:
+    enabled: true
+    name: erratic pvp
+    icon: prismarine shard:0
+  every rose:
+    enabled: true
+    name: every rose
+    icon: carpet:0
+  fallout:
+    enabled: true
+    name: fallout
+    icon: flint:0
+  flower power:
+    enabled: true
+    name: flower power
+    icon: dark oak fence:0
+  food neophobia:
+    enabled: true
+    name: food neophobia
+    icon: cooked chicken:0
+  golden fleece:
+    enabled: true
+    name: golden fleece
+    icon: coal:0
+  gone fishin:
+    enabled: true
+    name: gone fishin
+    icon: record 12:0
+  go to hell:
+    enabled: true
+    name: go to hell
+    icon: trap door:0
+  guns n roses:
+    enabled: true
+    name: guns n roses
+    icon: milk bucket:0
+  health donor:
+    enabled: true
+    name: health donor
+    icon: dispenser:0
+  the hobbit:
+    enabled: true
+    name: the hobbit
+    icon: eye of ender:0
+  horseless:
+    enabled: true
+    name: horseless
+    icon: ice:0
+  inventors:
+    enabled: true
+    name: inventors
+    icon: ender pearl:0
+  item hunt:
+    enabled: true
+    name: item hunt
+    icon: gold boots:0
+  jackpot:
+    enabled: true
+    name: jackpot
+    icon: chainmail chestplate:0
+  killswitch:
+    enabled: true
+    name: killswitch
+    icon: iron block:0
+  kings:
+    enabled: true
+    name: kings
+    icon: coal block:0
+  kings of the sky:
+    enabled: true
+    name: kings of the sky
+    icon: prismarine crystals:0
+  lights out:
+    enabled: true
+    name: lights out
+    icon: iron axe:0
+  live with regret:
+    enabled: true
+    name: live with regret
+    icon: record 3:0
+  lucys in the sky with diamonds:
+    enabled: true
+    name: lucys in the sky with diamonds
+    icon: acacia door:0
+  longshots:
+    enabled: true
+    name: longshots
+    icon: hard clay:0
+  lootcrates:
+    enabled: true
+    name: lootcrates
+    icon: chainmail boots:0
+  mole:
+    enabled: true
+    name: mole
+    icon: boat:0
+  mountaineering:
+    enabled: true
+    name: mountaineering
+    icon: ender chest:0
+  minecraft:
+    enabled: true
+    name: minecraft
+    icon: wool:0
+  nightmare mode:
+    enabled: true
+    name: nightmare mode
+    icon: cooked rabbit:0
+  nine slots:
+    enabled: true
+    name: nine slots
+    icon: sugar cane block:0
+  no furnace:
+    enabled: true
+    name: no furnace
+    icon: diamond spade:0
+  no going back:
+    enabled: true
+    name: no going back
+    icon: redstone:0
+  no nether:
+    enabled: true
+    name: no nether
+    icon: leather:0
+  no sprint:
+    enabled: true
+    name: no sprint
+    icon: bed block:0
+  not shiny enough:
+    enabled: true
+    name: not shiny enough
+    icon: double plant:0
+  one heal:
+    enabled: true
+    name: one heal
+    icon: potato item:0
+  popeye:
+    enabled: true
+    name: popeye
+    icon: slime block:0
+  puppy power:
+    enabled: true
+    name: puppy power
+    icon: cactus:0
+  pvc:
+    enabled: true
+    name: pvc
+    icon: rotten flesh:0
+  potential permanent:
+    enabled: true
+    name: potential permanent
+    icon: sea lantern:0
+  potion swap:
+    enabled: true
+    name: potion swap
+    icon: wood double step:0
+  pyrophobia:
+    enabled: true
+    name: pyrophobia
+    icon: written book:0
+  pyrotechnics:
+    enabled: true
+    name: pyrotechnics
+    icon: glowstone:0
+  random starter items:
+    enabled: true
+    name: random starter items
+    icon: glass bottle:0
+  real time:
+    enabled: true
+    name: real time
+    icon: cake:0
+  rewarding longshots:
+    enabled: true
+    name: rewarding longshots
+    icon: cauldron item:0
+  risky retrieval:
+    enabled: true
+    name: risky retrieval
+    icon: torch:0
+  select ores:
+    enabled: true
+    name: select ores
+    icon: gold leggings:0
+  shared health:
+    enabled: true
+    name: shared health
+    icon: melon seeds:0
+  sheep lovers:
+    enabled: true
+    name: sheep lovers
+    icon: cobblestone:0
+  sky high:
+    enabled: true
+    name: sky high
+    icon: pork:0
+  soul brothers:
+    enabled: true
+    name: soul brothers
+    icon: iron sword:0
+  switcheroo:
+    enabled: true
+    name: switcheroo
+    icon: potion:0
+  team inventory:
+    enabled: true
+    name: team inventory
+    icon: enchanted book:0
+  timber:
+    enabled: true
+    name: timber
+    icon: blaze powder:0
+  time bomb:
+    enabled: true
+    name: time bomb
+    icon: blaze rod:0
+  triple ores:
+    enabled: true
+    name: triple ores
+    icon: spruce door item:0
+  tree drops:
+    enabled: true
+    name: tree drops
+    icon: stone axe:0
+  ultra paranoid:
+    enabled: true
+    name: ultra paranoid
+    icon: poisonous potato:0
+  urban:
+    enabled: true
+    name: urban
+    icon: acacia stairs:0
+  vast track o mountain:
+    enabled: true
+    name: vast track o mountain
+    icon: glowstone dust:0
+  vein miner:
+    enabled: true
+    name: vein miner
+    icon: smooth brick:0
+  web cage:
+    enabled: true
+    name: web cage
+    icon: cooked fish:0
+  xtr apple:
+    enabled: true
+    name: xtr apple
+    icon: apple:0
+  zombies:
+    enabled: true
+    name: zombies
+    icon: rabbit foot:0

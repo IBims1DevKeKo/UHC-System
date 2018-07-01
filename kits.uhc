@@ -1,0 +1,11 @@
+GUI:
+  Name: '&4WartungsArbeiten'
+Preview GUI:
+  Name: '&3Preview&7: [kit]'
+  Next page: '&aNext Page'
+  Previous page: '&cPrevious Page'
+Kits: true
+Kit:
+  Item: CHEST
+  Item Name: '&4WartungsArbeiten'
+  Item Slot: 0

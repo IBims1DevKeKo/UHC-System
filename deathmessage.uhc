@@ -1,0 +1,40 @@
+'[entity] is a mob': a mob
+Player:
+  died:
+    reason:
+      tnt:
+      - '&7[player] stand to near to &ctnt&7!'
+      - '&7[player] blew up!'
+      cactus:
+      - '&7[player] stand to near to a &2cactus&7!'
+      - '&7[player] wanted to a hug a &2cactus!'
+      undefined:
+      - '&7[player] was killed by command!'
+      - '&7[player] wanted to hack!'
+      drowned:
+      - '&7[player] thought he is a fish!'
+      - '&7[player] was too long underwater'
+      entity:
+      - '&7[player] lost the fight with [entity]!'
+      - '&7[player] got murded by [entity]!'
+      fall:
+      - '&7[player] thought he could fly!'
+      - '&7[player] thought he is a bird!'
+      fire:
+      - '&7[player] burnt away!'
+      - '&7[player] is now ash!'
+      poison:
+      - '&7[player] was poisoned!'
+      - '&7[player] was killed with magic!'
+      starved:
+      - '&7[player] was too hungry!'
+      - '&7[player] starved!'
+      suffocated:
+      - '&7[player] stucked inside a block!'
+      - '&7[player] can''t receive help inside a block!'
+      thorns:
+      - '&7[player] messed with the wrong person!'
+      - '&7[player] killed himself!'
+      wither:
+      - '&7[player] was to weak for wither!'
+      - '&7[player] spawned a wither(?!) and can''t defeat him!'

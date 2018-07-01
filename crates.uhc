@@ -1,0 +1,64 @@
+GUI:
+  Name: '&5Crates'
+Open GUI:
+  Name: '&5Crate &7: [crateName]'
+Crates: true
+Crate:
+  Item: chest
+  Item Name: '&5Crates'
+  Item slot: 4
+CustomCrates:
+  normal:
+    name: normal
+    rarerity: NORMAL
+    item: ender chest
+    content:
+    - '1'
+    - '2'
+    dropChance: 0.1
+    color: '&f'
+  uncommon:
+    name: uncommon
+    rarerity: UNCOMMON
+    item: ender chest
+    content:
+    - '1'
+    - '2'
+    dropChance: 0.1
+    color: '&f'
+  rare:
+    name: rare
+    rarerity: RARE
+    item: ender chest
+    content:
+    - '1'
+    - '2'
+    dropChance: 0.1
+    color: '&f'
+  superrare:
+    name: superrare
+    rarerity: SUPERRARE
+    item: ender chest
+    content:
+    - '1'
+    - '2'
+    dropChance: 0.1
+    color: '&f'
+  epic:
+    name: epic
+    rarerity: EPIC
+    item: ender chest
+    content:
+    - '1'
+    - '2'
+    dropChance: 0.1
+    color: '&f'
+  legendary:
+    name: legendary
+    rarerity: LEGENDARY
+    item: ender chest
+    content:
+    - '1'
+    - '2'
+    dropChance: 0.1
+    color: '&f'

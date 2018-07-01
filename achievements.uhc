@@ -1,0 +1,51 @@
+Item:
+  Name: '&aAchievements'
+  Type: book
+  Slot: 6
+GUI:
+  Name: '&aAchievements'
+hasAchievement:
+  'true': '&aUnlocked!'
+  'false': '&cLocked!'
+Achievement unlocked: '&7You just unlocked the achievement &8: &a[achievement]'
+Achievements:
+  slayer:
+    name: '&7slayer'
+    icon: paper
+    description:
+    - '&7Add your description here!'
+  winner:
+    name: '&7winner'
+    icon: paper
+    description:
+    - '&7Add your description here!'
+  dragon slayer:
+    name: '&7dragon slayer'
+    icon: paper
+    description:
+    - '&7Add your description here!'
+  omg diamonds:
+    name: '&7omg diamonds'
+    icon: paper
+    description:
+    - '&7Add your description here!'
+  burn baby burn:
+    name: '&7burn baby burn'
+    icon: paper
+    description:
+    - '&7Add your description here!'
+  highway to hell:
+    name: '&7highway to hell'
+    icon: paper
+    description:
+    - '&7Add your description here!'
+  glowing in the dark:
+    name: '&7glowing in the dark'
+    icon: paper
+    description:
+    - '&7Add your description here!'
+  senor boom boom:
+    name: '&7senor boom boom'
+    icon: paper
+    description:
+    - '&7Add your description here!'

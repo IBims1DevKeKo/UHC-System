@@ -1,0 +1,8 @@
+State:
+  Lobby: '&alobby'
+  Period of peace: '&dperiod of peace'
+  Warmup: '&bwarmup'
+  In game: '&cin game'
+  Deathmatch warmup: '&3DM - warmup'
+  Deathmatch: '&4Deathmatch'
+  End: '&8Restart'

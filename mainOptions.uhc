@@ -1,0 +1,34 @@
+Prefix: '&7[&4MV&7-&6UHC&7] '
+Spectator Prefix: '&7[&4X&7] &c'
+Restartmessage: '&7The Server has stopped. Now loading a new round of UHC.'
+Bungeecord: false
+Bungeecord Fallbackserver: lobby
+MySQL: false
+Soup: false
+debugging: true
+Spawndispersal: 20
+Remove Attack Cooldown: true
+Pregenerate World:
+  enabled: true
+  size: 1000
+Tracker:
+  equip: true
+  name: '&dTracker'
+Lobby:
+  as schematic: true
+  filename: lobby
+  spawnblock:
+    type: diamond block
+    lower: 5
+Status MOTD: true
+Minimum players: 4
+Maximum players: 64
+Points + on kill: 50
+Points - on death: 25
+Points + on win: 500
+Coins + on kill: 50
+Coins - on death: 25
+Coins + on win: 500
+Command on kill: ''
+Command on death: ''
+Command on win: ''

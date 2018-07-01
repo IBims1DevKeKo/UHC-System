@@ -1,0 +1,8 @@
+Golden Apple-0-1:
+  Line:
+    top: g g g
+    mid: g S g
+    bottom: g g g
+  variables:
+  - g = gold ingot:0
+  - S = skull item:3

@@ -1,0 +1,38 @@
+Lobby:
+  lines: 16
+  line:
+    '16': '[out]'
+    '15': '[bar]'
+    '14': '[blank]'
+    '13': '[kills]'
+    '12': '[deaths]'
+    '11': '[blank]'
+    '10': '[bar]'
+    '9': '[blank]'
+    '8': '[coins]'
+    '7': '[points]'
+    '6': '[blank]'
+    '5': '[bar]'
+    '4': '[blank]'
+    '3': '[kit]'
+    '2': '[team]'
+    '1': '[bar]'
+Ingame:
+  lines: 16
+  line:
+    '16': '[out]'
+    '15': '[blank]'
+    '14': '[alive]'
+    '13': '[specs]'
+    '12': '[blank]'
+    '11': '[kit]'
+    '10': '[team]'
+    '9': '[blank]'
+    '8': '[center]'
+    '7': '[border]'
+    '6': '[blank]'
+    '5': '[time infos]'
+    '4': '[bar]'
+    '3': '[out]'
+    '2': '[out]'
+    '1': '[out]'
